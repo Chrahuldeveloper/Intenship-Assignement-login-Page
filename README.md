@@ -65,3 +65,6 @@ Database: Mysql
 
 Dev Tools: Nodemon, Cors, 
 
+## video 
+https://drive.google.com/file/d/1Wdttg1xhxuvJg2buUDTdghi39FxsrfGl/view?usp=sharing
+
