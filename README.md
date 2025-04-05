@@ -53,8 +53,8 @@ Runs the backend server without nodemon.
 ### 1. Clone the repository
 
 bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/Chrahuldeveloper/Intenship-Assignement-login-Page
+cd Intenship-Assignement-login-Page
 
 ## Tech Stack
 Frontend: React,TypeScript
